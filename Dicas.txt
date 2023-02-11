@@ -1,0 +1,22 @@
+yarn generate --spa
+
+isso gera SINGLE WEB APPLICATION no NUXT
+
+yarn dev (build para teste)
+
+firebase init
+
+firebase deploy
+
+
+
+---
+yarn serve (vue js puro)
+yarn dev (NUXT)
+
+
+------ VUE JS PURO (SEM NUXT)
+yarn serve (rodar projeto)
+yarn build (buildar pra deploy)
+
+firebase deploy

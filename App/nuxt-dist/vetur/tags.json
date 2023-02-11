@@ -1,0 +1,86 @@
+{
+  "AppBar": {
+    "description": "Auto imported from components/AppBar.vue"
+  },
+  "LazyAppBar": {
+    "description": "Auto imported from components/AppBar.vue"
+  },
+  "AppBarAdmin": {
+    "description": "Auto imported from components/AppBarAdmin.vue"
+  },
+  "LazyAppBarAdmin": {
+    "description": "Auto imported from components/AppBarAdmin.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LazyVuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "WhatsappContato": {
+    "description": "Auto imported from components/WhatsappContato.vue"
+  },
+  "LazyWhatsappContato": {
+    "description": "Auto imported from components/WhatsappContato.vue"
+  },
+  "NovaFotoDialog": {
+    "description": "Auto imported from components/dialogs/NovaFotoDialog.vue"
+  },
+  "LazyNovaFotoDialog": {
+    "description": "Auto imported from components/dialogs/NovaFotoDialog.vue"
+  },
+  "NovoUsuarioDialog": {
+    "description": "Auto imported from components/dialogs/NovoUsuarioDialog.vue"
+  },
+  "LazyNovoUsuarioDialog": {
+    "description": "Auto imported from components/dialogs/NovoUsuarioDialog.vue"
+  },
+  "ProdutoDialog": {
+    "description": "Auto imported from components/dialogs/ProdutoDialog.vue"
+  },
+  "LazyProdutoDialog": {
+    "description": "Auto imported from components/dialogs/ProdutoDialog.vue"
+  },
+  "SessoesDialog": {
+    "description": "Auto imported from components/dialogs/SessoesDialog.vue"
+  },
+  "LazySessoesDialog": {
+    "description": "Auto imported from components/dialogs/SessoesDialog.vue"
+  },
+  "ProdutosDestaques": {
+    "description": "Auto imported from components/home/ProdutosDestaques.vue"
+  },
+  "LazyProdutosDestaques": {
+    "description": "Auto imported from components/home/ProdutosDestaques.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/home/Slider.vue"
+  },
+  "LazySlider": {
+    "description": "Auto imported from components/home/Slider.vue"
+  },
+  "Produtos": {
+    "description": "Auto imported from components/pages/Produtos.vue"
+  },
+  "LazyProdutos": {
+    "description": "Auto imported from components/pages/Produtos.vue"
+  },
+  "DialogUser": {
+    "description": "Auto imported from components/users/DialogUser.vue"
+  },
+  "LazyDialogUser": {
+    "description": "Auto imported from components/users/DialogUser.vue"
+  }
+}

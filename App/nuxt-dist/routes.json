@@ -1,0 +1,93 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_17473016"
+  },
+  {
+    "name": "contato",
+    "path": "/contato",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\contato.vue",
+    "chunkName": "pages/contato",
+    "_name": "_e0e119f2"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_3faadbf4"
+  },
+  {
+    "name": "produtos",
+    "path": "/produtos",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\produtos.vue",
+    "chunkName": "pages/produtos",
+    "_name": "_56580f8d"
+  },
+  {
+    "name": "register-admin",
+    "path": "/register-admin",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\register-admin.vue",
+    "chunkName": "pages/register-admin",
+    "_name": "_9e155e50"
+  },
+  {
+    "name": "sobre",
+    "path": "/sobre",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\sobre.vue",
+    "chunkName": "pages/sobre",
+    "_name": "_17318654"
+  },
+  {
+    "name": "admin-configuracoes",
+    "path": "/admin/configuracoes",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\configuracoes.vue",
+    "chunkName": "pages/admin/configuracoes",
+    "_name": "_c48c7380"
+  },
+  {
+    "name": "admin-fotos",
+    "path": "/admin/fotos",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\fotos.vue",
+    "chunkName": "pages/admin/fotos",
+    "_name": "_2188c4b3"
+  },
+  {
+    "name": "admin-mensagem",
+    "path": "/admin/mensagem",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\mensagem.vue",
+    "chunkName": "pages/admin/mensagem",
+    "_name": "_79e923d2"
+  },
+  {
+    "name": "admin-produtos",
+    "path": "/admin/produtos",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\produtos.vue",
+    "chunkName": "pages/admin/produtos",
+    "_name": "_e69c2df4"
+  },
+  {
+    "name": "admin-users",
+    "path": "/admin/users",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\users.vue",
+    "chunkName": "pages/admin/users",
+    "_name": "_5cb10a4c"
+  },
+  {
+    "name": "admin-usuarios",
+    "path": "/admin/usuarios",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\admin\\\\usuarios.vue",
+    "chunkName": "pages/admin/usuarios",
+    "_name": "_711bc41e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\VueJS\\\\nuxt-material-construcao\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1682eeef"
+  }
+]

@@ -1,0 +1,51 @@
+build SPA = yarn generate --spa
+
+PRODUTOS:
+1) UNIDADE DE METRAGEM (UN OU METROS)
+
+LISTAGEM PRODUTOS:
+USAR LIMIT E SCROLL INFINITO
+
+
+CARRINHO
+1) ENVIAR EMAIL E PEDIDO NO SISTEMA
+1.1) ENVIAR TMBM EMAIL PARA O USUÁRIO
+2) RECEBER O PEDIDO NO SISTEMA E GERENCIAR
+
+CHAT
+1) Aptar em qualquer lugar da área admin.
+2) Deixar negrito chats mais recentes
+3)(low priority) Sinalização de mensagens não lidas 
+
+
+SOBRE
+1) http://www.redebemviver.com.br/a-rede/ USAR ESTE MODELO
+
+http://www.redebemviver.com.br/ MODELOS
+
+#bugs
+Ao criar usuário, cria, mas fica somente carregando.
+
+
+
+
+AÇÕES OK:
+ok TEXTO MÁXIMO 
+ok produto ao add mais fotos, está trocando as anteriores
+ok SLIDE DE FOTOS DOS PRODUTOS
+ok - *** 2) tela de produtos (abrir e ver o produto)
+ok SISTEMA DE CATEGORIAS (OU USA OUTRAS OU CRIA NOVAS DE FORMA DINÂMICA)
+
+
+
+
+
+
+
+https://dev.to/kiritchoukc/deploy-nuxt-on-firebase-4ad8
+
+
+process.browser
+https://www.npmjs.com/package/vue-no-ssr
+
+https://github.com/nuxt/nuxt.js/issues/30

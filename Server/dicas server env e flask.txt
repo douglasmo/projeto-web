@@ -1,0 +1,11 @@
+cd C:\Users\Adm\Documents\Python\site\Server\tutorial-env
+
+python -m venv tutorial-env
+
+
+## ativar
+cd dentro do projeto
+executar abaixo
+Scripts\activate
+
+
